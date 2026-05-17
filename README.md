@@ -1,21 +1,21 @@
-# 💈 Landing Page Barbearia
+#  Landing Page Barbearia
 
 Projeto de landing page desenvolvido com foco em captação de clientes e agendamento de serviços para barbearia.
 
 
-## 🚀 Objetivo
+## Objetivo
 
 Criar uma página moderna, responsiva e estratégica para aumentar o número de agendamentos e facilitar o contato com clientes.
 
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
 
-## 🎯 Foco do projeto
+## Foco do projeto
 
 - Apresentação dos serviços da barbearia
 - Destaque de cortes e diferenciais
@@ -23,7 +23,7 @@ Criar uma página moderna, responsiva e estratégica para aumentar o número de 
 - Layout voltado para conversão de clientes
 
 
-## 📱 Responsividade
+## Responsividade
 
 Projeto adaptado para:
 - Celulares
@@ -31,11 +31,11 @@ Projeto adaptado para:
 - Desktops
 
 
-## 💡 Resultado esperado
+## Resultado esperado
 
 Aumentar a taxa de agendamento e melhorar a presença digital da barbearia.
 
 
-## 📌 Status
+## Status
 
 ✔ Projeto finalizado (ou em evolução)
