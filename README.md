@@ -38,4 +38,5 @@ Aumentar a taxa de agendamento e melhorar a presença digital da barbearia.
 
 ## Status
 
-✔ Projeto finalizado (ou em evolução)
+✔ Projeto finalizado.
+
