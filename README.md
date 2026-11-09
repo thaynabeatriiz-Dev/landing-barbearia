@@ -10,9 +10,9 @@ Criar uma página moderna, responsiva e estratégica para aumentar o número de 
 
 ##  Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+- Next.js
+- React
+- TypeScript
 
 
 ## Foco do projeto
